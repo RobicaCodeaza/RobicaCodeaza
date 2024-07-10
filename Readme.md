@@ -1,4 +1,4 @@
-Hi! 🙏🏻 
+🙏🏻 Hi, there!  
 
 ❤️ I’m Robert, a FrontEnd developer from Romania with a passion for blending technical expertise and design to create stunning and efficient applications. My mission is to develop scalable software that not only performs flawlessly but also offers an engaging user experience.
 
